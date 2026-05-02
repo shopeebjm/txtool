@@ -60,11 +60,6 @@ $ SODIUM_INSTALL=system pip2 install pynacl
 ```
 atau jika Anda mengalami kesalahan lain, silakan ajukan masalah baru.
 
-# Screenshot  
-![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_a.png)  
-![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_b.png)  
-![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_c.png)
-
 # Social Media
 
 <h2 align="center">
