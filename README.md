@@ -53,6 +53,8 @@ $ chmod +x txtool
 ```
 $ txtool
 ```
+# Screenshot
+<img width="1080" height="703" alt="Image" src="https://github.com/user-attachments/assets/5b45919c-5efe-42cf-b36f-da359047ef01" />
 
 # Bagaimana Cara Berkontribusi ?
 Jika Anda tertarik dengan proyek ini,silakan ajukan pull request.
