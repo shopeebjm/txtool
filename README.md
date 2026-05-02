@@ -50,7 +50,7 @@ Jika Anda tertarik dengan proyek ini,silakan ajukan pull request.
 * Unggah commit Anda ke branch baru di repository yang Anda fork.
 * akhirnya membuka pull request baru
 
-# Know problem ?
+# Apakah Anda Mengetahui Masalah Ini ?
 * Untuk akses backdoor SSH, txtool menggunakan `paramiko` pustaka Python yang dibutuhkan.`PyNacl` Jika Anda mengalami kesalahan saat menginstal PyNacl, ikuti langkah-langkah saya:
 ```
 $ apt-get install --assume-yes libsodium libsodium-dev
@@ -58,7 +58,7 @@ $ apt-get install --assume-yes libsodium libsodium-dev
 ```
 $ SODIUM_INSTALL=system pip2 install pynacl
 ```
-or you have another error, please submit a new issue.
+atau jika Anda mengalami kesalahan lain, silakan ajukan masalah baru.
 
 # Screenshot  
 ![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_a.png)  
