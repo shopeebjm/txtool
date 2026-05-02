@@ -42,7 +42,6 @@ $ git clone https://github.com/shopeebjm/txtool.git
 $ cd txtool
 ```
 ```
-```
 $ chmod +x install.py
 ```
 ```
