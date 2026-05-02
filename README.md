@@ -42,12 +42,13 @@ $ ./install.py
 $ txtool
 ```
 
-# How to contribute ?
-if you are interesting with this project, you are welcome to open pull request
-* fork this repository
-* create new branch on your forked repository
-* push your commit to new branch on your forked repository
-* finally open new pull request
+# Bagaimana Cara Berkontribusi ?
+Jika Anda tertarik dengan proyek ini,silakan ajukan pull request.
+
+* buat salinan (fork) repositori ini.
+* Buat cabang baru di repositori yang Anda fork.
+* Unggah commit Anda ke branch baru di repository yang Anda fork.
+* akhirnya membuka pull request baru
 
 # Know problem ?
 * for ssh backdoor access, txtool used `paramiko` python library that required `PyNacl`
