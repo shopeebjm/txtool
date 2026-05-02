@@ -51,10 +51,11 @@ Jika Anda tertarik dengan proyek ini,silakan ajukan pull request.
 * akhirnya membuka pull request baru
 
 # Know problem ?
-* for ssh backdoor access, txtool used `paramiko` python library that required `PyNacl`
-if you have an error installing PyNacl, follow my steps:
+* Untuk akses backdoor SSH, txtool menggunakan `paramiko` pustaka Python yang dibutuhkan.`PyNacl` Jika Anda mengalami kesalahan saat menginstal PyNacl, ikuti langkah-langkah saya:
 ```
 $ apt-get install --assume-yes libsodium libsodium-dev
+```
+```
 $ SODIUM_INSTALL=system pip2 install pynacl
 ```
 or you have another error, please submit a new issue.
