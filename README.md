@@ -27,13 +27,19 @@ dibangun di atas Termux dan hanya tersedia untuk Termux.
 # Command Prompt On Termux
 require python version 2.x
 ```
+$ apt update && apt upgrade -y
+```
+```
+$ apt install python2
+```
+```
+$ apt install git -y
+```
+```
 $ git clone https://github.com/shopeebjm/txtool.git
 ```
 ```
 $ cd txtool
-```
-```
-$ apt install python2
 ```
 ```
 $ ./install.py
