@@ -18,18 +18,13 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
-<a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
-</a>
-
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
 txtool is made to help you for easly pentesting in termux,  
 build on termux and only available for termux.  
 
-Installation steps: 
-===
-* require python version 2.x  
+# Command Prompt On Termux
+require python version 2.x  
 
 ```
 $ git clone https://github.com/shopeebjm/txtool.git```
@@ -46,16 +41,14 @@ $ ./install.py
 $ txtool
 ```
 
-How to contribute ?
-===
+# How to contribute ?
 if you are interesting with this project, you are welcome to open pull request
 * fork this repository
 * create new branch on your forked repository
 * push your commit to new branch on your forked repository
 * finally open new pull request
 
-Know problem ?
-===
+# Know problem ?
 * for ssh backdoor access, txtool used `paramiko` python library that required `PyNacl`
 if you have an error installing PyNacl, follow my steps:
 ```
