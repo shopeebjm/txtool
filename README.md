@@ -20,8 +20,9 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-txtool is made to help you for easly pentesting in termux,  
-build on termux and only available for termux.  
+# txtool 
+- txtool dibuat untuk membantu Anda melakukan pentesting dengan mudah di Termux,
+dibangun di atas Termux dan hanya tersedia untuk Termux.
 
 # Command Prompt On Termux
 require python version 2.x  
