@@ -12,9 +12,9 @@ def banner():
   / / _>  </ /_/ /_/ / /_/ / /___
  /_/ /_/|_|\__/\____/\____/_____/
 """+ warna.tutup + """
-  Author     : """ + warna.abuabu + """ Kuburan A.K.A Gembur Ae """+ warna.tutup + """
+  Author     : """ + warna.abuabu + """ shopeebjm """+ warna.tutup + """
   Version    : """ + warna.abuabu +version+ warna.tutup + """
-  Codename   : """ + warna.abuabu + """ Tali Pocong """+ warna.tutup + """
+  Codename   : """ + warna.abuabu + """ shopeebjm """+ warna.tutup + """
 """ + warna.merah + """ =======================================
  =======================================""" + warna.tutup + """
 """)
