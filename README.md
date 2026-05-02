@@ -25,11 +25,11 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 dibangun di atas Termux dan hanya tersedia untuk Termux.
 
 # Command Prompt On Termux
-require python version 2.x  
-
+require python version 2.x
 ```
-$ git clone https://github.com/shopeebjm/txtool.git```
-```  
+$ git clone https://github.com/shopeebjm/txtool.git
+```
+```
 $ cd txtool
 ```
 ```
